@@ -9,4 +9,4 @@ def main(request):
     return HttpResponse("Zdorova")
 
 def about(request):
-    return HttpResponse('Che nado?')
+    return HttpResponse('My name is Sergei')
